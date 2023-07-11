@@ -1,6 +1,6 @@
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to [explain to anyone](/rltoken/ku9cNLQc4XzHnVXH6YFE7A), **without the help of Google**:
+At the end of this project, you are expected to be able to explain to anyone **without the help of Google**:
 
 ### Permissions
 
