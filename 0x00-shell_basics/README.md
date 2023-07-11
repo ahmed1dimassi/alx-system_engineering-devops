@@ -19,7 +19,7 @@ At the end of this project, I was able to explain to anyone **without the help o
 
 
 ### Navigation
-
+  
 
 * What do the commands or built-ins `cd`, `pwd`, `ls` do 
 * How to navigate the filesystem
